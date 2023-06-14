@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "699626788163",
+    "firebase_url": "https://smasher-37764-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "smasher-37764",
+    "storage_bucket": "smasher-37764.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699626788163:android:a454917d55ec8a4d40cbf6",
+        "android_client_info": {
+          "package_name": "com.SilverIndustry.SmaSher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "699626788163-3ct4slkmr2qa1jvakcma6mqa8fn2hgeb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApWfOMp6Ttdc3fene0rdmtogquSiDzFHg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "699626788163-3ct4slkmr2qa1jvakcma6mqa8fn2hgeb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "699626788163-mcu3k9dqcr7703hf6kf4h5pcoc9smq29.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.DefaultCompany.SmaSher"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
